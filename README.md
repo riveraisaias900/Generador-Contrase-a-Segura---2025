@@ -5,7 +5,9 @@ recuerde que minimo debe ser de 8 digitos
 
 𝕮𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝖎𝖘𝖙𝖎𝖈𝖆𝖘
 1.- Facil Acceso 
+
 2.- Completamente en Español para la facil comprension y lectura
+
 3.- Uso Rapido, Genera la Contraseña en cuestion de Segundos.
 
 
