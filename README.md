@@ -32,46 +32,63 @@ recuerde que minimo debe ser de 8 digitos
 
 ¿Que se utilizo para crear este Programa?
 
+
+
 ✅ CONTENIDOS UTILIZADOS
 
-Problemas
+1.- Problemas
 
-Tipos de problemas
+2.- Tipos de problemas
 
-Pasos para resolver problemas
+3.- Pasos para resolver problemas
 
 
-Variables y tipos de datos
 
-Condicional IF
+- Variables y tipos de datos
 
-Bucle FOR
 
-Algoritmos
+- Condicional IF
 
-Entorno de desarrollo
+
+- Bucle FOR
+
+
+- Algoritmos
+
+- Entorno de desarrollo
+
+
+Concepto.- 
 
 Para hacer el este generador de contraseñas aplique mucho conceptos vistos a lo largo del curso, los cuales me permitieron resolver el problema de forma clara y funcional. A continuacion estara todo lo que me ayudo a comprender y resolver de mejor manera la problematica
 
-Resolución de problemas
+
+1.- Resolución de problemas
+
 El proyecto parte de un problema concreto: generar contraseñas seguras según una longitud definida por el usuario, aplicando una solución lógica y estructurada.
 
-Variables y tipos de datos
+2.- Variables y tipos de datos
+
 Se utilizan variables para almacenar la longitud de la contraseña y el resultado generado, haciendo uso de tipos de datos como enteros y cadenas de texto.
 
-Operadores relacionales y lógicos
+3.- Operadores relacionales y lógicos
+
 Se emplean comparaciones para validar que la longitud mínima sea correcta, asegurando que la contraseña cumpla con los requisitos establecidos.
 
-Estructuras de decisión (if)
+4.- Estructuras de decisión (if)
+
 Se utilizan condicionales para controlar el flujo del programa, validando entradas incorrectas y mostrando mensajes adecuados al usuario.
 
-Algoritmos
+5.-Algoritmos
+
 El programa sigue una secuencia lógica de pasos: entrada de datos, validación, generación aleatoria y salida del resultado.
 
-Bucles (for)
+6.-Bucles (for)
+
 Se utiliza un bucle para generar cada carácter de la contraseña según la longitud solicitada.
 
-Uso del entorno de desarrollo y librerías
+7.-Uso del entorno de desarrollo y librerías
+
 Se emplean librerías estándar de Python como random, string y tkinter para la generación de contraseñas y la creación de una interfaz gráfica simple.
 
 
